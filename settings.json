@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Namnuae123-CCNA.aternos.me",
+    "ip": "Namnuae123-CCNA.aternos.me:19663",
     "port": 19663,
     "version": "1.21.1",
     "try-creative": true
